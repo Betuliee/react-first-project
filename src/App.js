@@ -12,7 +12,7 @@ import Form from './Form';
 */
 function App() {
 
-  let isim = "zl";
+  let isim = "betul";
 
   const pstil = {
     color:'red',
